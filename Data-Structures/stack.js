@@ -57,3 +57,5 @@ class Stack {
   stack.push(20);
   stack.push(30);
   stack.printStack(); // Output: 10 20 30   
+  stack.pop();
+stack.printStack(); // Output: 10 -> 20
